@@ -1,4 +1,4 @@
  applications:
- - name: cloudnative-25win
+ - name: Cloudnative-25win
    random-route: true
    memory: 128M
